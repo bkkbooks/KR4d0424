@@ -1,0 +1,39 @@
+text_id: KR4d0424
+total_unique: 35
+total_occurrences: 100
+entries:
+- {kr: KR0008, char: 􅀈, codepoint: U+105008, count: 16}
+- {kr: KR0034, char: 􅀢, codepoint: U+105022, count: 4}
+- {kr: KR0146, char: 􅂒, codepoint: U+105092, count: 2}
+- {kr: KR0184, char: 􅂸, codepoint: U+1050B8, count: 1}
+- {kr: KR0276, char: 􅄔, codepoint: U+105114, count: 1}
+- {kr: KR0392, char: 􅆈, codepoint: U+105188, count: 1}
+- {kr: KR0435, char: 􅆳, codepoint: U+1051B3, count: 1}
+- {kr: KR0465, char: 􅇑, codepoint: U+1051D1, count: 1}
+- {kr: KR0482, char: 􅇢, codepoint: U+1051E2, count: 4}
+- {kr: KR0506, char: 􅇺, codepoint: U+1051FA, count: 1}
+- {kr: KR0509, char: 􅇽, codepoint: U+1051FD, count: 2}
+- {kr: KR0541, char: 􅈝, codepoint: U+10521D, count: 1}
+- {kr: KR0554, char: 􅈪, codepoint: U+10522A, count: 6}
+- {kr: KR0558, char: 􅈮, codepoint: U+10522E, count: 2}
+- {kr: KR0570, char: 􅈺, codepoint: U+10523A, count: 2}
+- {kr: KR0575, char: 􅈿, codepoint: U+10523F, count: 3}
+- {kr: KR0586, char: 􅉊, codepoint: U+10524A, count: 1}
+- {kr: KR0633, char: 􅉹, codepoint: U+105279, count: 1}
+- {kr: KR0638, char: 􅉾, codepoint: U+10527E, count: 1}
+- {kr: KR0658, char: 􅊒, codepoint: U+105292, count: 12}
+- {kr: KR0812, char: 􅌬, codepoint: U+10532C, count: 2}
+- {kr: KR0886, char: 􅍶, codepoint: U+105376, count: 2}
+- {kr: KR0959, char: 􅎿, codepoint: U+1053BF, count: 3}
+- {kr: KR1077, char: 􅐵, codepoint: U+105435, count: 2}
+- {kr: KR1089, char: 􅑁, codepoint: U+105441, count: 2}
+- {kr: KR1098, char: 􅑊, codepoint: U+10544A, count: 2}
+- {kr: KR1310, char: 􅔞, codepoint: U+10551E, count: 1}
+- {kr: KR1401, char: 􅕹, codepoint: U+105579, count: 4}
+- {kr: KR1507, char: 􅗣, codepoint: U+1055E3, count: 2}
+- {kr: KR1509, char: 􅗥, codepoint: U+1055E5, count: 4}
+- {kr: KR1558, char: 􅘖, codepoint: U+105616, count: 1}
+- {kr: KR1585, char: 􅘱, codepoint: U+105631, count: 4}
+- {kr: KR2144, char: 􅡠, codepoint: U+105860, count: 2}
+- {kr: KR2265, char: 􅣙, codepoint: U+1058D9, count: 2}
+- {kr: KR2285, char: 􅣭, codepoint: U+1058ED, count: 4}
