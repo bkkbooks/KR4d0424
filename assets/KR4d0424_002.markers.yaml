@@ -317,6 +317,7 @@ markers:
       ', id: KR4d0424_krp_002-bkkkrnewl68}
   - {type: line-break, offset: 1045, content: '', id: KR4d0424_WYG_002-4b06}
   - {type: punctuation, offset: 1052, content: (, id: KR4d0424_krp_002-bkkpn1}
+  - {type: voice, offset: 1052, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1053, content: /, id: KR4d0424_krp_002-bkkpn2}
   - {type: punctuation, offset: 1054, content: ), id: KR4d0424_krp_002-bkkpn3}
   - {type: substitution, offset: 1055, original: 𤣥, replacement: 玄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0001}}
@@ -497,6 +498,7 @@ markers:
       ', id: KR4d0424_krp_002-bkkkrnewl105}
   - {type: line-break, offset: 1645, content: '', id: KR4d0424_WYG_002-6b07}
   - {type: punctuation, offset: 1650, content: (, id: KR4d0424_krp_002-bkkpn4}
+  - {type: voice, offset: 1650, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1651, content: /, id: KR4d0424_krp_002-bkkpn5}
   - {type: punctuation, offset: 1652, content: ), id: KR4d0424_krp_002-bkkpn6}
   - {type: 'kr:newline', offset: 1667, content: '
@@ -1010,9 +1012,11 @@ markers:
       ', id: KR4d0424_krp_002-bkkkrnewl213}
   - {type: line-break, offset: 3406, content: '', id: KR4d0424_WYG_002-12b07}
   - {type: punctuation, offset: 3412, content: (, id: KR4d0424_krp_002-bkkpn7}
+  - {type: voice, offset: 3412, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3413, content: /, id: KR4d0424_krp_002-bkkpn8}
   - {type: punctuation, offset: 3414, content: ), id: KR4d0424_krp_002-bkkpn9}
   - {type: punctuation, offset: 3415, content: (, id: KR4d0424_krp_002-bkkpn10}
+  - {type: voice, offset: 3415, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3416, content: /, id: KR4d0424_krp_002-bkkpn11}
   - {type: substitution, offset: 3416, original: 褭, replacement: 裊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18244}}
   - {type: punctuation, offset: 3417, content: ), id: KR4d0424_krp_002-bkkpn12}
@@ -1456,4 +1460,4 @@ markers:
 
       ', id: KR4d0424_krp_002-bkkkrnewl305}
   back: []
-hash: sha256:fa99c8cb95c95792929c8281b641d0aa52686d63f94f013952d972eb6b873d13
+hash: sha256:ced2ec00e93a5f498c78f384379b69ca5293fa73e0be45fe29dd255924af080e

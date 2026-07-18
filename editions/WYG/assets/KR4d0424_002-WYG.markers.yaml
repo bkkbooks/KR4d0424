@@ -286,6 +286,7 @@ markers:
       ', id: KR4d0424_WYG_002-bkkkrnewl68}
   - {type: line-break, offset: 1045, content: '', id: KR4d0424_WYG_002-4b06}
   - {type: punctuation, offset: 1052, content: (, id: KR4d0424_WYG_002-bkkpn1}
+  - {type: voice, offset: 1052, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1053, content: /, id: KR4d0424_WYG_002-bkkpn2}
   - {type: punctuation, offset: 1054, content: ), id: KR4d0424_WYG_002-bkkpn3}
   - {type: 'kr:newline', offset: 1067, content: '
@@ -437,6 +438,7 @@ markers:
       ', id: KR4d0424_WYG_002-bkkkrnewl105}
   - {type: line-break, offset: 1645, content: '', id: KR4d0424_WYG_002-6b07}
   - {type: punctuation, offset: 1650, content: (, id: KR4d0424_WYG_002-bkkpn4}
+  - {type: voice, offset: 1650, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1651, content: /, id: KR4d0424_WYG_002-bkkpn5}
   - {type: punctuation, offset: 1652, content: ), id: KR4d0424_WYG_002-bkkpn6}
   - {type: 'kr:newline', offset: 1667, content: '
@@ -880,9 +882,11 @@ markers:
       ', id: KR4d0424_WYG_002-bkkkrnewl213}
   - {type: line-break, offset: 3406, content: '', id: KR4d0424_WYG_002-12b07}
   - {type: punctuation, offset: 3412, content: (, id: KR4d0424_WYG_002-bkkpn7}
+  - {type: voice, offset: 3412, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3413, content: /, id: KR4d0424_WYG_002-bkkpn8}
   - {type: punctuation, offset: 3414, content: ), id: KR4d0424_WYG_002-bkkpn9}
   - {type: punctuation, offset: 3415, content: (, id: KR4d0424_WYG_002-bkkpn10}
+  - {type: voice, offset: 3415, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3416, content: /, id: KR4d0424_WYG_002-bkkpn11}
   - {type: punctuation, offset: 3417, content: ), id: KR4d0424_WYG_002-bkkpn12}
   - {type: 'kr:newline', offset: 3429, content: '
@@ -1282,4 +1286,4 @@ markers:
 
       ', id: KR4d0424_WYG_002-bkkkrnewl305}
   back: []
-hash: sha256:84b704552a8b2d46fffc5f7ede3de78d409268e3fe8ef8fd5a2f8e4f5b6c6006
+hash: sha256:f6aa5e7cde72bf99bc2107105781aeba4b93e4d8dd669af27b8479524d1715ad
